@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.App.SplashScreen" parent="Theme.SnapchatSplashScreen">
+        <item name="android:windowSplashScreenBackground">@color/yellow</item>
+        <item name="splashScreenIconSize">3dp</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/snapchat</item>
+        <item name="postSplashScreenTheme">@style/Base.Theme.SnapchatSplashScreen</item>
+    </style>
+</resources>
